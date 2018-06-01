@@ -8,11 +8,12 @@
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css">
 </head>
-<body>
 
-<header data-block-type="headers" data-id="1" id="top">
-  <div class="container">
-    <nav class="navbar navbar-expand-md no-gutters">
+<body data-spy="scroll" data-target="#navigation" data-offset="50">
+
+<header data-block-type="headers" data-id="1">
+  <nav id="navigation" class="navbar navbar-light navbar-expand-md no-gutters fixed-top" style="background-color: #ffffff">
+    <div class="container">
       <div class="col-2 text-left">
         <a href="https://pythonporto.org">
             <img src="/img/pyporto-logo.png" height="80" alt="image">
@@ -25,8 +26,8 @@
 
       <div class="collapse navbar-collapse justify-content-center col-md-8" id="navbarNav4">
         <ul class="navbar-nav justify-content-center">
-          <li class="nav-item active">
-            <a class="nav-link" href="#top">Home <span class="sr-only">(current)</span></a>
+          <li class="nav-item">
+            <a class="nav-link" href="#home">Home</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="#upcoming-events">Upcoming events</a>
@@ -44,22 +45,22 @@
       </div>
 
       <ul class="navbar-nav col-2 justify-content-end d-none d-md-flex">
-        <li class="nav-item">
-          <a class="nav-link" href="https://www.facebook.com/groups/pythonporto"><i class="fa fa-facebook"></i></a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="http://twitter.com/pyporto"><i class="fa fa-twitter"></i></a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="http://github.com/pyporto/"><i class="fa fa-github"></i></a>
-        </li>
-      </ul>
-    </nav>
-  </div>
+      <li class="nav-item">
+        <a class="nav-link" href="https://www.facebook.com/groups/pythonporto"><i class="fa fa-facebook"></i></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="http://twitter.com/pyporto"><i class="fa fa-twitter"></i></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="http://github.com/pyporto/"><i class="fa fa-github"></i></a>
+      </li>
+    </ul>
+    </div>
+  </nav>
 </header>
 
 
-<section class="fdb-block" style="background-image: url(./photos/pyporto-banner-lighter.jpg);">
+<section class="fdb-block" id="home" style="background-image: url(./photos/pyporto-banner-lighter.jpg);">
     <div class="container">
       <div class="row text-left">
         <div class="col-12 col-sm-10 m-auto m-md-0 col-md-8 col-lg-6">
@@ -405,9 +406,23 @@
 
   </div>
 </footer>
-      <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
+      <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js"></script>
-
+<script>
+  $(function(){
+      $("#navigation a").on('click', function(event) {
+      if (this.hash !== "") {
+        event.preventDefault();
+        var hash = this.hash;
+        $('html, body').animate({
+          scrollTop: $(hash).offset().top
+        }, 800, function(){
+          window.location.hash = hash;
+        });
+      }
+    });
+  });
+</script>
 </body>
 </html>
