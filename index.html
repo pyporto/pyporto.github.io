@@ -3,6 +3,7 @@
 <head>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta charset="UTF-8">
+  <link rel="stylesheet" href="/css/pyporto.css">
   <link rel="stylesheet" href="/froala/css/froala_blocks.css">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i">
@@ -15,7 +16,7 @@
   <nav id="navigation" class="navbar navbar-light navbar-expand-md no-gutters fixed-top" style="background-color: #ffffff">
     <div class="container">
       <div class="col-2 text-left">
-        <a href="https://pythonporto.org">
+        <a href="/">
             <img src="/img/pyporto-logo.png" height="80" alt="image">
           </a>
       </div>
@@ -27,19 +28,10 @@
       <div class="collapse navbar-collapse justify-content-center col-md-8" id="navbarNav4">
         <ul class="navbar-nav justify-content-center">
           <li class="nav-item">
-            <a class="nav-link" href="#home">Home</a>
-          </li>
-          <li class="nav-item">
             <a class="nav-link" href="#upcoming-events">Upcoming events</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#reports">Reports</a>
-          </li>
-          <li class="nav-item">
             <a class="nav-link" href="#core-team">Core Team</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#sponsors">Sponsors</a>
           </li>
         </ul>
       </div>
@@ -59,8 +51,8 @@
   </nav>
 </header>
 
+<!-- ABOUT US -->
 <!--
-
 <section class="fdb-block" id="home" style="background-image: url(./photos/pyporto-banner-lighter.jpg);">
     <div class="container">
       <div class="row text-left">
@@ -70,7 +62,7 @@
               <div class="col-12 col-xl-8 text-center">
                 <h1>Python Porto</h1>
                 <p class="text-h3">
-                  We are the community of Python lovers of Porto
+                  We are the community of Python enthusiasts of Porto
                 </p>
                 <p class="text-h3 mt-4"><a href="#upcoming-events">Upcoming events &gt;</a></p>
               </div>
@@ -84,6 +76,11 @@
 -->
 
 
+
+
+<!-- UPCOMING EVENTS -->
+
+
 <section class="fdb-block" data-block-type="contents" data-id="2" draggable="true" id="upcoming-events">
   <div class="container">
     <div class="row">
@@ -94,7 +91,7 @@
   </div>
 </section>
 
-
+<!--
 <section class="fdb-block">
     <div class="col-fill-left" style="background-image: url(./photos/python101.jpg)">
     </div>
@@ -137,6 +134,7 @@
       </div>
     </div>
 </section>
+-->
 
 
 <section class="fdb-block">
@@ -145,18 +143,44 @@
 
     <div class="container">
       <div class="row justify-content-end">
-        <div class="col-12 col-md-5 text-center">
-          <h1>PyCoffee</h1>
-          <p class="text-h3">When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove</p>
+        <div class="col-12 col-md-5">
+          <h2><b>PyCoffee |</b> <small>Every other Sunday</small></h2>
+          <p class="text-h3">
+            Informal Python meetups in partnership with Porto i/o.
+          </p>
+          <p>
+            There is no agenda and no speakers. It’s for those who is ready to
+            start Sunday with a cup of hot coffee and a chat with like-minded
+            python developers or beginners. We speak English or Portuguese, and
+            we welcome guests with different backgrounds, coming from different
+            countries and pursuing their own very different goals.
+          </p>
 
-          <p class="mt-4"><a href="https://www.froala.com">Learn More &gt;</a></p>
+          <p class="mt-4 mb-5">
+            <a class="btn" href="https://www.meetup.com/pyporto/events/">Join the upcoming event</a>
+          </p>
         </div>
       </div>
     </div>
 </section>
 
 
+<section class="fdb-block">
+    <div class="col-fill-right" style="background-image: url(./photos/python101.jpg)">
+    </div>
 
+    <div class="container">
+      <div class="col-12 col-md-5">
+        <h2><b>Python 101 |</b> <small>To be announced</small></h2>
+        <p class="text-h3">
+          Python Porto plans to run a series of workshops for beginners in
+          programming. Details will be announced later
+        </p>
+      </div>
+    </div>
+</section>
+
+<!--
 <section class="fdb-block pt-0 pb-0">
     <div class="col-fill-right" style="background-image: url(./photos/lightning-talks.jpg)">
     </div>
@@ -180,8 +204,11 @@
       </div>
     </div>
 </section>
+-->
 
+<!-- SPONSORS -->
 
+<!--
 <section class="fdb-block" id="sponsors">
     <div class="container">
       <div class="row text-center justify-content-center">
@@ -199,8 +226,13 @@
       </div>
     </div>
 </section>
+-->
 
 
+
+<!-- REPORTS  -->
+
+<!--
 <section class="fdb-block bg-dark" style="background-image: url(/froala/imgs/bg_4.svg)" id="reports">
     <div class="container">
       <div class="row text-center justify-content-center">
@@ -291,7 +323,7 @@
 
     </div>
 </section>
-
+-->
 
 
 <section class="fdb-block team-8" data-block-type="teams" data-id="3" draggable="true" id="core-team">
@@ -311,14 +343,22 @@
       <div class="col-sm-6">
         <div class="row align-items-center">
           <div class="col-4">
-            <img alt="image" class="img-fluid" style="border-radius: 50%;" src="photos/roman-imankulov.jpg">
+            <img alt="image" class="img-fluid img-round" src="photos/roman-imankulov.jpg">
           </div>
 
           <div class="col-8">
             <h3><strong>Roman Imankulov</strong></h3>
-            <p class="text-h3">Position</p>
-
-            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+            <p>
+              Lives in Porto for almost four years and works with Python for
+              more than a decade. Loves Python and web development. In Python
+              Porto acts as the main organizers, speaker on several events
+              and a permanent resident of PyCoffee.
+            </p>
+            <p class="text-h2">
+                <a href="https://twitter.com/rdotpy"><i class="fa fa-twitter-square text-muted"></i></a>
+                <a href="https://github.com/imankulov"><i class="fa fa-github-square text-muted"></i></a>
+                <a href="https://www.linkedin.com/in/roman-imankulov-91076144/"><i class="fa fa-linkedin-square text-muted"></i></a>
+            </p>
           </div>
         </div>
       </div>
@@ -326,14 +366,23 @@
       <div class="col-sm-6">
         <div class="row align-items-center">
           <div class="col-4">
-            <img alt="image" class="img-fluid" style="border-radius: 50%;" src="photos/paulo-portela2.jpg">
+            <img alt="image" class="img-fluid img-round" src="photos/paulo-portela.jpg">
           </div>
 
           <div class="col-8">
             <h3><strong>Paulo Portela</strong></h3>
-            <p class="text-h3">Position</p>
-
-            <p>Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+            <p>
+              Paulo is a Robot Manager from SONAE, and he is eager to help
+              beginners in Python Porto to learn the language. Author and
+              the main presenter of "Python 101" workshops. You can also find
+              hom on our PyCoffee events.
+            </p>
+            <p class="text-h2">
+                <a href="https://twitter.com/paulogp"><i class="fa fa-twitter-square text-muted"></i></a>
+                <a href="https://github.com/paulogp"><i class="fa fa-github-square text-muted"></i></a>
+                <a href="https://www.linkedin.com/in/paulogp/"><i class="fa fa-linkedin-square text-muted"></i></a>
+                <a href="https://about.me/paulogp/"><i class="fa fa-link text-muted"></i></a>
+            </p>
           </div>
         </div>
       </div>
@@ -345,50 +394,22 @@
       <div class="col-sm-6">
         <div class="row align-items-center">
           <div class="col-4">
-            <img alt="image" class="img-fluid" style="border-radius: 50%;" src="/froala/imgs/img_round.png">
-          </div>
-
-          <div class="col-8">
-            <h3><strong>Hugo Gomes</strong></h3>
-            <p class="text-h3">Position</p>
-
-            <p>One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
-          </div>
-        </div>
-      </div>
-
-      <div class="col-sm-6">
-        <div class="row align-items-center">
-          <div class="col-4">
-            <img alt="image" class="img-fluid" style="border-radius: 50%;" src="photos/leonid-kholkine.jpg">
-          </div>
-
-          <div class="col-8">
-            <h3><strong>Leonid Kholkine</strong></h3>
-            <p class="text-h3">Position</p>
-
-            <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life.</p>
-          </div>
-        </div>
-      </div>
-    </div>
-
-
-    <div class="row-70"></div>
-
-
-    <div class="row justify-content-center text-left">
-      <div class="col-sm-6">
-        <div class="row align-items-center">
-          <div class="col-4">
-            <img alt="image" class="img-fluid" style="border-radius: 50%;" src="photos/francisca-dias.jpg">
+            <img alt="image" class="img-fluid img-round" src="photos/francisca-dias.jpg">
           </div>
 
           <div class="col-8">
             <h3><strong>Francisca Dias</strong></h3>
-            <p class="text-h3">Position</p>
+            <p>
+              Fransisca is a Data Analyst, constantly eager to
+              improve her skills in data analytics, with a focus on open-data
+              and web development. She is the author, organizer and speaker
+              of "Python for Data Science" workshops of Python Porto.
+            </p>
+            <p class="text-h2">
+                <a href="https://www.linkedin.com/in/franciscacardosodias/"><i class="fa fa-linkedin-square text-muted"></i></a>
+                <a href="http://franciscadias.com/"><i class="fa fa-link text-muted"></i></a>
+            </p>
 
-            <p>One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
           </div>
         </div>
       </div>
@@ -396,20 +417,27 @@
       <div class="col-sm-6">
         <div class="row align-items-center">
           <div class="col-4">
-            <img alt="image" class="img-fluid" style="border-radius: 50%;" src="/froala/imgs/img_round.png">
+            <img alt="image" class="img-fluid img-round" src="photos/leonid-kholkine.jpg">
           </div>
 
           <div class="col-8">
-            <h3><strong>Afonso Caldas</strong></h3>
-            <p class="text-h3">Position</p>
-
-            <p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life.</p>
+            <h3><strong>Leonid Kholkine</strong></h3>
+            <p>
+              Leonid is a Head of Engineering at Tonic App who loves
+              to apply technology to find solutions to real-world problems.
+              As a part of Python Porto core team, he is an organizer of
+              several events.
+            </p>
+            <p class="text-h2">
+                <a href="https://www.linkedin.com/in/kholkine/"><i class="fa fa-linkedin-square text-muted"></i></a>
+                <a href="https://github.com/leokho"><i class="fa fa-github-square text-muted"></i></a>
+            </p>
           </div>
         </div>
       </div>
     </div>
-
   </div>
+
 </section>
 
 
@@ -422,30 +450,20 @@
 
       <div class="col mt-4 mt-lg-0 text-center">
         <ul class="nav justify-content-center">
+
           <li class="nav-item">
-            <a class="nav-link active" href="https://pythonporto.org">Home</a>
+            <a class="nav-link" href="#upcoming-events">Upcoming events</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="https://pythonporto.org">Features</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="https://pythonporto.org">Privacy Policy</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="https://pythonporto.org">Terms</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="https://pythonporto.org">About</a>
+            <a class="nav-link" href="#core-team">Core Team</a>
           </li>
         </ul>
       </div>
 
       <div class="col-12 col-lg-2 mt-4 mt-lg-0 text-lg-right">
-        <a href="https://pythonporto.org"><i class="fa fa-twitter" aria-hidden="true"></i></a>&nbsp;&nbsp;
-        <a href="https://pythonporto.org"><i class="fa fa-facebook" aria-hidden="true"></i></a>&nbsp;&nbsp;
-        <a href="https://pythonporto.org"><i class="fa fa-instagram" aria-hidden="true"></i></a>&nbsp;&nbsp;
-        <a href="https://pythonporto.org"><i class="fa fa-pinterest" aria-hidden="true"></i></a>&nbsp;&nbsp;
-        <a href="https://pythonporto.org"><i class="fa fa-google" aria-hidden="true"></i></a>
+        <a href="http://twitter.com/pyporto"><i class="fa fa-twitter" aria-hidden="true"></i></a>&nbsp;&nbsp;
+        <a href="https://www.facebook.com/groups/pythonporto"><i class="fa fa-facebook" aria-hidden="true"></i></a>&nbsp;&nbsp;
+        <a href="http://github.com/pyporto/"><i class="fa fa-github" aria-hidden="true"></i></a>&nbsp;&nbsp;
       </div>
     </div>
 
