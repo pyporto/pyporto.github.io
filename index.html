@@ -11,7 +11,7 @@
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css">
 </head>
 
-<body data-spy="scroll" data-target="#navigation" data-offset="50">
+<body data-offset="50" data-spy="scroll" data-target="#navigation">
 
 <header data-block-type="headers" data-id="1">
   <nav id="navigation" class="navbar navbar-light navbar-expand-md no-gutters fixed-top" style="background-color: #ffffff">
@@ -33,6 +33,9 @@
           </li>
           <li class="nav-item">
             <a class="nav-link" href="#upcoming-events">Upcoming events</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#for-speakers">For speakers</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="#core-team">Core Team</a>
@@ -62,7 +65,7 @@
 </header>
 
 <!-- ABOUT US -->
-<section class="fdb-block" id="home" style="background-image: url(./photos/pyporto-banner-lighter.jpg);">
+<section class="fdb-block extra-top-margin" id="home" style="background-image: url(./photos/pyporto-banner-lighter.jpg);">
     <div class="container">
       <div class="row text-left">
         <div class="col-12 col-sm-10 m-auto m-md-0 col-md-8 col-lg-6">
@@ -93,12 +96,11 @@
 
 <!-- UPCOMING EVENTS -->
 
-
-<section class="fdb-block" data-block-type="contents" data-id="2" draggable="true" id="upcoming-events">
+<section class="fdb-block" id="upcoming-events">
   <div class="container">
     <div class="row">
       <div class="col text-center">
-        <h1>Upcoming events</h1>
+        <h1 class="section-header">Upcoming events</h1>
       </div>
     </div>
   </div>
@@ -152,6 +154,50 @@
       </div>
     </div>
 </section>
+
+<!-- RFP -->
+
+<section class="fdb-block" id="for-speakers">
+    <div class="container">
+      <div class="row">
+        <div class="col-12 text-center">
+          <h1 class="section-header">Want to become a speaker?</h1>
+        </div>
+      </div>
+
+      <div class="row align-items-center pt-2 pt-lg-5">
+        <div class="col-12 col-md-8 col-lg-7">
+
+          <p>
+            <b>Public speaking is challenging and rewarding experience.</b>
+            It is a great way to contribute to development of the community
+            and to boost your knowledge of a specific topic at the same time.
+          </p>
+
+          <p>
+            <b>We help you with the content.</b>
+            If you are not sure what to talk about, we can help you with the
+            topic. We will help you to shape and improve
+            your talk through a series of rehearsals. By the end of the talk we
+            will share the feedback from the audience and share it with you.
+          </p>
+
+          <p>
+            <b>We take care of the organization.</b>
+            This includes finding location, preparing everything onsite and
+            taking care of public announcements.
+          </p>
+
+
+          <p class="mt-4"><a class="btn" href="/for-speakers/">Submit your proposal</a></p>
+        </div>
+
+        <div class="col-8 col-md-4 m-auto m-md-0 ml-md-auto pt-5 d-none d-lg-flex">
+          <img alt="image" class="img-fluid" src="./photos/public-speaking-cats-square.jpg">
+        </div>
+      </div>
+    </div>
+  </section>
 
 <!-- SPONSORS -->
 
@@ -277,7 +323,7 @@
   <div class="container">
     <div class="row text-center justify-content-center">
       <div class="col-8">
-        <h1>Core team</h1>
+        <h1 class="section-header">Core team</h1>
         <p class="text-h3">
           This team makes Python in Porto possible
         </p>
@@ -392,7 +438,7 @@
   <div class="container">
     <div class="row text-center align-items-center">
       <div class="col-12 col-lg-2 text-lg-left">
-        <img alt="image" src="./img/pyporto-logo.png" height="40">
+        <img alt="image" src="/img/pyporto-logo.png" height="40">
       </div>
 
       <div class="col mt-4 mt-lg-0 text-center">
@@ -403,6 +449,9 @@
           </li>
           <li class="nav-item">
             <a class="nav-link" href="#upcoming-events">Upcoming events</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#for-speakers">For speakers</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="#core-team">Core Team</a>
@@ -421,7 +470,7 @@
 
   </div>
 </footer>
-      <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js"></script>
 <script>
