@@ -19,3 +19,5 @@ Francisca is a Data Analyst, constantly eager to improve her skills in data anal
 Leonid Kholkine
 
 llround coder and pursuing a Ph.D. in Data Science / Machine Learning by day. Organizes data science and tech initiatives by night.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kholkine/)
