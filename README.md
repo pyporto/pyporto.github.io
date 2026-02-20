@@ -4,6 +4,8 @@ _Under Development_
 
 https://www.linkedin.com/groups/13592590/
 
+## Team Members
+
 ### Roman Imankulov
 
 Lived in Porto for almost four years and works with Python for more than a decade. Loves Python and web development. In Python Porto acts as the main organizers, speaker on several events and a permanent resident of PyCoffee.
