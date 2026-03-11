@@ -24,6 +24,8 @@ Join Python Porto on our various platforms:
 
 This team makes Python in Porto possible.
 
+> We are always looking for passionate community members to help us grow! If you would like to become part of the **PyPorto Core Team**, please drop us an email at [pyporto@sapo.pt](mailto:pyporto@sapo.pt). We look forward to hearing from you!
+
 ### Roman Imankulov
 
 Lived in Porto for almost four years and works with Python for more than a decade. Loves Python and web development. In Python Porto acts as the main organizers, speaker on several events and a permanent resident of PyCoffee.
