@@ -20,7 +20,9 @@ Join Python Porto on our various platforms:
 - Twitter: [x.com/pyporto](https://x.com/pyporto)
 - LinkedIn: [linkedin.com/groups/13592590/](https://www.linkedin.com/groups/13592590/)
 
-## Team Members
+## Core Team
+
+This team makes Python in Porto possible.
 
 ### Roman Imankulov
 
@@ -56,10 +58,15 @@ Francisca is a Data Analyst, constantly eager to improve her skills in data anal
 
 ### Leonid Kholkine
 
-Allround coder and pursuing a Ph.D. in Data Science / Machine Learning by day. Organizes data science and tech initiatives by night.
+All round coder and pursuing a Ph.D. in Data Science / Machine Learning by day. Organizes data science and tech initiatives by night.
 
 <div align="center">
   <a href="https://github.com/leokho" target="_blank"><img src="https://img.shields.io/badge/github-repo-blue?logo=github" alt="GitHub"></a>
   <a href="https://www.linkedin.com/in/kholkine/" target="_blank"><img src="https://img.shields.io/badge/linkedin-profile-blue" alt="LinkedIn"></a>
   <a href="https://x.com/leonidkho" target="_blank"><img src="https://img.shields.io/badge/twitter-profile-blue?logo=x" alt="X"></a>
 </div>
+
+## Other Communities
+
+- [Porto Tech Hub PTH](https://portotechhub.com)
+- [Data Science Portugal DSP](https://www.meetup.com/pt-br/datascienceportugal/)
