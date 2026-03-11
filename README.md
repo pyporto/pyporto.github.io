@@ -1,6 +1,4 @@
-# PyPorto
-
-_Under Development_
+blob/master/img/pyporto-logo.png
 
 Python Porto is a vibrant and inclusive community of passionate individuals who share a common love for the Python programming language. Whether you're a seasoned Pythonista or just starting your coding journey, our group is the perfect place to connect, learn, and grow together.
 
