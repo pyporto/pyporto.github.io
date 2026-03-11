@@ -2,7 +2,23 @@
 
 _Under Development_
 
-https://www.linkedin.com/groups/13592590/
+Python Porto is a vibrant and inclusive community of passionate individuals who share a common love for the Python programming language. Whether you're a seasoned Pythonista or just starting your coding journey, our group is the perfect place to connect, learn, and grow together.
+
+Our mission is simple: to foster an environment where knowledge knows no bounds. We believe in the power of education and collaboration, and we're dedicated to providing a platform where members can freely exchange ideas, seek guidance, and contribute to the collective learning experience.
+
+## Why join Python Porto?
+
+- Knowledge Sharing: Python Porto is all about learning from one another. Our members come from diverse backgrounds, each bringing their unique perspectives and expertise to the table. Whether you want to dive into Python's core concepts, explore its vast libraries, or discuss best practices, you'll find a wealth of knowledge waiting for you.
+- Networking Opportunities: Building connections in the tech industry is essential for personal and professional growth. Python Porto offers a supportive network of like-minded individuals where you can collaborate on projects, find mentors, or seek career advice.
+- Events and Workshops: Stay up-to-date with the latest trends and developments in the Python ecosystem through our regular events and workshops. We host informative talks, hands-on coding sessions, and even hackathons to challenge your skills and creativity.
+- Social Engagement: Beyond just code, Python Porto is a friendly and fun community. Engage in discussions, share memes, or participate in our social activities. We believe in creating an inclusive space where everyone feels welcome and valued.
+
+## Social Networks
+
+Join Python Porto on our various platforms:
+- Facebook: https://www.facebook.com/groups/pythonporto
+- Twitter: https://twitter.com/pyporto
+- LinkedIn: https://www.linkedin.com/groups/13592590/
 
 ## Team Members
 
