@@ -68,5 +68,6 @@ All round coder and pursuing a Ph.D. in Data Science / Machine Learning by day. 
 
 ## Other Communities
 
-- [Porto Tech Hub PTH](https://portotechhub.com)
-- [Data Science Portugal DSP](https://www.meetup.com/pt-br/datascienceportugal/)
+- <a href="https://portotechhub.com" target="_blank">Porto Tech Hub PTH</a>
+- <a href="ttps://www.meetup.com/pt-br/datascienceportugal/" target="_blank">Data Science Portugal DSP</a>
+
