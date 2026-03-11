@@ -16,9 +16,9 @@ Our mission is simple: to foster an environment where knowledge knows no bounds.
 ## Social Networks
 
 Join Python Porto on our various platforms:
-- Facebook: https://www.facebook.com/groups/pythonporto
-- Twitter: https://twitter.com/pyporto
-- LinkedIn: https://www.linkedin.com/groups/13592590/
+- Facebook: [facebook.com/groups/pythonporto](https://www.facebook.com/groups/pythonporto)
+- Twitter: [x.com/pyporto](https://x.com/pyporto)
+- LinkedIn: [linkedin.com/groups/13592590/](https://www.linkedin.com/groups/13592590/)
 
 ## Team Members
 
@@ -30,6 +30,7 @@ Lived in Porto for almost four years and works with Python for more than a decad
   <a href="https://github.com/imankulov" target="_blank"><img src="https://img.shields.io/badge/github-repo-blue?logo=github" alt="GitHub"></a>
   <a href="https://www.linkedin.com/in/roman-imankulov-91076144/" target="_blank"><img src="https://img.shields.io/badge/linkedin-profile-blue" alt="LinkedIn"></a>
   <a href="https://x.com/rdotpy" target="_blank"><img src="https://img.shields.io/badge/twitter-profile-blue?logo=x" alt="X"></a>
+  <a href="https://roman.pt" target="_blank"><img src="https://img.shields.io/badge/biolink-profile-blue?logo=biolink" alt="Roman"></a>  
 </div>
 
 ### ≀Paulo Portela
@@ -40,7 +41,7 @@ Paulo is a Senior Software Developer from adidas, and he is eager to help beginn
   <a href="https://github.com/aghuttun" target="_blank"><img src="https://img.shields.io/badge/github-repo-blue?logo=github" alt="GitHub"></a>
   <a href="https://www.linkedin.com/in/aghuttun/" target="_blank"><img src="https://img.shields.io/badge/linkedin-profile-blue" alt="LinkedIn"></a>
   <a href="https://x.com/aghuttun" target="_blank"><img src="https://img.shields.io/badge/twitter-profile-blue?logo=x" alt="X"></a>
-  <a href="https://bio.site/aghuttun" target="_blank"><img src="https://img.shields.io/badge/biolink-profile-blue?logo=biolink" alt="Bio"></a>
+  <a href="https://bio.site/aghuttun" target="_blank"><img src="https://img.shields.io/badge/website-profile-blue?logo=biolink" alt="Website"></a>
 </div>
 
 ### Francisca Dias
