@@ -71,7 +71,7 @@ All round coder and pursuing a Ph.D. in Data Science / Machine Learning by day. 
 
 ## Learning Python
 
-- Learning Python: [Index](Python/Index.md)
+- Learning Python: [Index](python/Index.md)
 
 ## Other Communities
 
