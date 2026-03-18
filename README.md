@@ -68,6 +68,11 @@ All round coder and pursuing a Ph.D. in Data Science / Machine Learning by day. 
   <a href="https://x.com/leonidkho" target="_blank"><img src="https://img.shields.io/badge/twitter-profile-blue?logo=x" alt="X"></a>
 </div>
 
+
+## Learning Python
+
+- Learning Python: [Index](Python/Index.md)
+
 ## Other Communities
 
 - <a href="https://portotechhub.com" target="_blank">Porto Tech Hub PTH</a>
