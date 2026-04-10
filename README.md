@@ -2,33 +2,34 @@
   <img src="img/pyporto-logo.png" alt="PyPorto Logo" width="200">
 </p>
 
-Python Porto is a vibrant and inclusive community of passionate individuals who share a common love for the Python programming language. Whether you're a seasoned Pythonista or just starting your coding journey, our group is the perfect place to connect, learn, and grow together.
+O **Python Porto** é uma comunidade vibrante e inclusiva de pessoas apaixonadas que partilham uma paixão comum pela linguagem de programação Python. Quer sejas um Pythonista experiente ou estejas apenas a começar a tua jornada de programação, o nosso grupo é o local ideal para conectar, aprender e crescer em conjunto.
 
-Our mission is simple: to foster an environment where knowledge knows no bounds. We believe in the power of education and collaboration, and we're dedicated to providing a platform where members can freely exchange ideas, seek guidance, and contribute to the collective learning experience.
+A nossa missão é simples: fomentar um ambiente onde o conhecimento não tem limites. Acreditamos no poder da educação e da colaboração, e estamos dedicados a proporcionar uma plataforma onde os membros possam trocar livremente ideias, pedir orientação e contribuir para a experiência de aprendizagem coletiva.
 
-## Why join Python Porto?
+## Porquê aderir ao Python Porto?
 
-- Knowledge Sharing: Python Porto is all about learning from one another. Our members come from diverse backgrounds, each bringing their unique perspectives and expertise to the table. Whether you want to dive into Python's core concepts, explore its vast libraries, or discuss best practices, you'll find a wealth of knowledge waiting for you.
-- Networking Opportunities: Building connections in the tech industry is essential for personal and professional growth. Python Porto offers a supportive network of like-minded individuals where you can collaborate on projects, find mentors, or seek career advice.
-- Events and Workshops: Stay up-to-date with the latest trends and developments in the Python ecosystem through our regular events and workshops. We host informative talks, hands-on coding sessions, and even hackathons to challenge your skills and creativity.
-- Social Engagement: Beyond just code, Python Porto is a friendly and fun community. Engage in discussions, share memes, or participate in our social activities. We believe in creating an inclusive space where everyone feels welcome and valued.
+- **Partilha de Conhecimento**: O Python Porto é todo sobre aprender uns com os outros. Os nossos membros vêm de origens diversas, cada um trazendo perspetivas e conhecimentos únicos. Quer queiras aprofundar os conceitos base do Python, explorar as suas vastas bibliotecas ou discutir boas práticas, encontrarás uma riqueza de conhecimento à tua espera.
+- **Oportunidades de Networking**: Construir ligações na indústria tecnológica é essencial para o crescimento pessoal e profissional. O Python Porto oferece uma rede de apoio de indivíduos com os mesmos interesses, onde podes colaborar em projetos, encontrar mentores ou pedir aconselhamento de carreira.
+- **Eventos e Workshops**: Mantém-te atualizado com as últimas tendências e desenvolvimentos no ecossistema Python através dos nossos eventos e workshops regulares. Organizamos palestras informativas, sessões práticas de código e até hackathons para desafiar as tuas competências e criatividade.
+- **Convívio Social**: Para além do código, o Python Porto é uma comunidade amigável e divertida. Participa em discussões, partilha memes ou envolve-te nas nossas atividades sociais. Acreditamos na criação de um espaço inclusivo onde todos se sintam bem-vindos e valorizados.
 
-## Social Networks
+## Redes Sociais
 
-Join Python Porto on our various platforms:
+Junta-te ao Python Porto nas nossas várias plataformas:
+
 - Facebook: [facebook.com/groups/pythonporto](https://www.facebook.com/groups/pythonporto)
-- Twitter: [x.com/pyporto](https://x.com/pyporto)
+- Twitter / X: [x.com/pyporto](https://x.com/pyporto)
 - LinkedIn: [linkedin.com/groups/13592590/](https://www.linkedin.com/groups/13592590/)
 
-## Core Team
+## Equipa Principal
 
-This team makes Python in Porto possible.
+Esta equipa torna o Python no Porto possível.
 
-> We are always looking for passionate community members to help us grow! If you would like to become part of the **PyPorto Core Team**, please drop us an email at [pyporto@sapo.pt](mailto:pyporto@sapo.pt). We look forward to hearing from you!
+> Estamos sempre à procura de membros apaixonados da comunidade para nos ajudarem a crescer! Se quiseres fazer parte da **Equipa Principal do PyPorto**, envia-nos um email para [pyporto@sapo.pt](mailto:pyporto@sapo.pt). Estamos ansiosos por ter notícias tuas!
 
 ### Roman Imankulov
 
-Lived in Porto for almost four years and works with Python for more than a decade. Loves Python and web development. In Python Porto acts as the main organizers, speaker on several events and a permanent resident of PyCoffee.
+Viveu no Porto durante quase quatro anos e trabalha com Python há mais de uma década. Adora Python e desenvolvimento web. No Python Porto atua como organizador principal, orador em vários eventos e residente permanente do PyCoffee.
 
 <div align="center">
   <a href="https://github.com/imankulov" target="_blank"><img src="https://img.shields.io/badge/github-repo-blue?logo=github" alt="GitHub"></a>
@@ -37,9 +38,9 @@ Lived in Porto for almost four years and works with Python for more than a decad
   <a href="https://roman.pt" target="_blank"><img src="https://img.shields.io/badge/website-profile-blue?logo=website" alt="Roman"></a>  
 </div>
 
-### ≀Paulo Portela
+### ≀Paulo Portela (aghuttun)
 
-Paulo is a Senior Software Developer from adidas, and he is eager to help beginners in Python Porto to learn the language. Author and the main presenter of "Python 101" workshops. You can also find him on our PyCoffee events.
+Paulo é Senior Software Developer na adidas e está sempre disposto a ajudar os iniciantes no Python Porto a aprender a linguagem. Autor e principal apresentador dos workshops "Python 101". Podes encontrá-lo também nos nossos eventos PyCoffee.
 
 <div align="center">
   <a href="https://github.com/aghuttun" target="_blank"><img src="https://img.shields.io/badge/github-repo-blue?logo=github" alt="GitHub"></a>
@@ -50,7 +51,7 @@ Paulo is a Senior Software Developer from adidas, and he is eager to help beginn
 
 ### Francisca Dias
 
-Francisca is a Data Analyst, constantly eager to improve her skills in data analytics, with a focus on open-data and web development. She is the author, organizer and speaker of "Python for Data Science" workshops of Python Porto.
+Francisca é Data Analyst, sempre motivada para melhorar as suas competências em análise de dados, com foco em open-data e desenvolvimento web. É autora, organizadora e oradora dos workshops "Python for Data Science" do Python Porto.
 
 <div align="center">
   <a href="https://github.com/franciscadias" target="_blank"><img src="https://img.shields.io/badge/github-repo-blue?logo=github" alt="GitHub"></a>
@@ -60,7 +61,7 @@ Francisca is a Data Analyst, constantly eager to improve her skills in data anal
 
 ### Leonid Kholkine
 
-All round coder and pursuing a Ph.D. in Data Science / Machine Learning by day. Organizes data science and tech initiatives by night.
+Programador versátil e a tirar um Ph.D. em Data Science / Machine Learning durante o dia. Organiza iniciativas de data science e tecnologia durante a noite.
 
 <div align="center">
   <a href="https://github.com/leokho" target="_blank"><img src="https://img.shields.io/badge/github-repo-blue?logo=github" alt="GitHub"></a>
@@ -68,13 +69,11 @@ All round coder and pursuing a Ph.D. in Data Science / Machine Learning by day. 
   <a href="https://x.com/leonidkho" target="_blank"><img src="https://img.shields.io/badge/twitter-profile-blue?logo=x" alt="X"></a>
 </div>
 
+## Aprender Python
 
-## Learning Python
+- (Em Construção!) Aprender Python: [Índice](python/Index.md)
 
-- Learning Python: [Index](python/Index.md)
-
-## Other Communities
+## Outras Comunidades
 
 - <a href="https://portotechhub.com" target="_blank">Porto Tech Hub PTH</a>
 - <a href="https://www.meetup.com/pt-br/datascienceportugal/" target="_blank">Data Science Portugal DSP</a>
-
