@@ -33,9 +33,9 @@ Viveu no Porto durante quase quatro anos e trabalha com Python há mais de uma d
 
 <div align="center">
   <a href="https://github.com/imankulov" target="_blank"><img src="https://img.shields.io/badge/github-repo-blue?logo=github" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/roman-imankulov-91076144/" target="_blank"><img src="https://img.shields.io/badge/linkedin-profile-blue" alt="LinkedIn"></a>
-  <a href="https://x.com/rdotpy" target="_blank"><img src="https://img.shields.io/badge/twitter-profile-blue?logo=x" alt="X"></a>
-  <a href="https://roman.pt" target="_blank"><img src="https://img.shields.io/badge/website-profile-blue?logo=website" alt="Roman"></a>  
+  <a href="https://www.linkedin.com/in/roman-imankulov-91076144/" target="_blank"><img src="https://img.shields.io/badge/linkedin-perfil-blue" alt="LinkedIn"></a>
+  <a href="https://x.com/rdotpy" target="_blank"><img src="https://img.shields.io/badge/twitter-perfil-blue?logo=x" alt="X"></a>
+  <a href="https://roman.pt" target="_blank"><img src="https://img.shields.io/badge/website-perfil-blue?logo=website" alt="Roman"></a>  
 </div>
 
 ### ≀Paulo Portela (aghuttun)
@@ -44,9 +44,9 @@ Paulo é Senior Software Developer na adidas e está sempre disposto a ajudar os
 
 <div align="center">
   <a href="https://github.com/aghuttun" target="_blank"><img src="https://img.shields.io/badge/github-repo-blue?logo=github" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/aghuttun/" target="_blank"><img src="https://img.shields.io/badge/linkedin-profile-blue" alt="LinkedIn"></a>
-  <a href="https://x.com/aghuttun" target="_blank"><img src="https://img.shields.io/badge/twitter-profile-blue?logo=x" alt="X"></a>
-  <a href="https://bio.site/aghuttun" target="_blank"><img src="https://img.shields.io/badge/biolink-profile-blue?logo=biolink" alt="Biolink"></a>
+  <a href="https://www.linkedin.com/in/aghuttun/" target="_blank"><img src="https://img.shields.io/badge/linkedin-perfil-blue" alt="LinkedIn"></a>
+  <a href="https://x.com/aghuttun" target="_blank"><img src="https://img.shields.io/badge/twitter-perfil-blue?logo=x" alt="X"></a>
+  <a href="https://bio.site/aghuttun" target="_blank"><img src="https://img.shields.io/badge/biolink-perfil-blue?logo=biolink" alt="Biolink"></a>
 </div>
 
 ### Francisca Dias
@@ -55,8 +55,8 @@ Francisca é Data Analyst, sempre motivada para melhorar as suas competências e
 
 <div align="center">
   <a href="https://github.com/franciscadias" target="_blank"><img src="https://img.shields.io/badge/github-repo-blue?logo=github" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/franciscacardosodias/" target="_blank"><img src="https://img.shields.io/badge/linkedin-profile-blue" alt="LinkedIn"></a>
-  <a href="https://medium.com/@francisca.cardoso.dias" target="_blank"><img src="https://img.shields.io/badge/medium-profile-blue?logo=medium" alt="Medium"></a>
+  <a href="https://www.linkedin.com/in/franciscacardosodias/" target="_blank"><img src="https://img.shields.io/badge/linkedin-perfil-blue" alt="LinkedIn"></a>
+  <a href="https://medium.com/@francisca.cardoso.dias" target="_blank"><img src="https://img.shields.io/badge/medium-perfil-blue?logo=medium" alt="Medium"></a>
 </div>
 
 ### Leonid Kholkine
